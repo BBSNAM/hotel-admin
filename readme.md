@@ -14,13 +14,21 @@ SSM框架技术开发的一个多功能旅店经营系统
 
 ```
 
-#### 系统技术栈
 
-Spring + SpringMVC + MyBatis + Thymeleaf + Layui +  jQuery + JavaScript +  MySQL 
+
+<br/>
 
 #### 仓库代码为压缩版
 
 #### 项目非免费开源，适用于毕业设计，需要请加Q：943701114，非诚勿扰
+
+<br/>
+
+
+
+#### 系统技术栈
+
+Spring + SpringMVC + MyBatis + Thymeleaf + Layui +  jQuery + JavaScript +  MySQL 
 
 
 
