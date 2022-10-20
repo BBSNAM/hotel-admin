@@ -30,7 +30,8 @@ SSM框架技术开发的一个多功能旅店经营系统
 
 Spring + SpringMVC + MyBatis + Thymeleaf + Layui +  jQuery + JavaScript +  MySQL 
 
-
+#### 演示地址
+https://www.bilibili.com/video/BV1aY4y1T79h/?spm_id_from=333.999.0.0
 
 #### 项目截图
 
