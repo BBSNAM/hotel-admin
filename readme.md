@@ -32,22 +32,29 @@ Spring + SpringMVC + MyBatis + Thymeleaf + Layui +  jQuery + JavaScript +  MySQL
 
 
 
+#### 演示地址
+
+https://www.bilibili.com/video/BV1aY4y1T79h/?spm_id_from=333.999.0.0
+
+
+
+
 #### 项目截图
 
 ##### 管理员端截图
 
-| <img src="img/admin1.png" style="zoom:33%;" /> | <img src="img/admin2.png" style="zoom:33%;" /> |
-| ---------------------------------------------- | ---------------------------------------------- |
-| <img src="img/admin3.png" style="zoom:33%;" /> | <img src="img/admin4.png" style="zoom:33%;" /> |
+| ![](https://s1.ax1x.com/2023/01/12/pSuAmfH.png) | ![](https://s1.ax1x.com/2023/01/12/pSuAete.png) |
+| ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://s1.ax1x.com/2023/01/12/pSuAupd.png) | ![](https://s1.ax1x.com/2023/01/12/pSuAK1A.png) |
 
 
 
 ##### 用户端截图
 
-| <img src="img/web1.png" style="zoom:33%;" /> | <img src="img/web2.png" style="zoom:33%;" /> |
-| -------------------------------------------- | -------------------------------------------- |
-| <img src="img/web3.png" style="zoom:33%;" /> | <img src="img/web4.png" style="zoom:33%;" /> |
-| <img src="img/web5.png" style="zoom:33%;" /> | <img src="img/web6.png" style="zoom:33%;" /> |
+| ![](https://s1.ax1x.com/2023/01/12/pSuA1nP.png) | ![](https://s1.ax1x.com/2023/01/12/pSuA878.png) |
+| ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://s1.ax1x.com/2023/01/12/pSuAM6I.png) | ![](https://s1.ax1x.com/2023/01/12/pSuAJAS.png) |
+| ![](https://s1.ax1x.com/2023/01/12/pSuAQXt.png) | ![](https://s1.ax1x.com/2023/01/12/pSuA30f.png) |
 
 
 
